@@ -1,4 +1,4 @@
-﻿import Shared.ButtonChange;
+import Shared.ButtonChange;
 import Components.Meter;
 import gfx.io.GameDelegate;
 import Shared.GlobalFunc;
