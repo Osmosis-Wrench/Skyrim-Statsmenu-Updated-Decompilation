@@ -1,4 +1,4 @@
-﻿dynamic class gfx.core.UIComponent extends MovieClip
+dynamic class gfx.core.UIComponent extends MovieClip
 {
 	var initialized: Boolean = false;
 	var enableInitCallback: Boolean = true;

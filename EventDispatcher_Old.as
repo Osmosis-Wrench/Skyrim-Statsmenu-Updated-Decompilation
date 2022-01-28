@@ -1,4 +1,4 @@
-﻿dynamic class gfx.events.EventDispatcher
+dynamic class gfx.events.EventDispatcher
 {
 	var _listeners;
 

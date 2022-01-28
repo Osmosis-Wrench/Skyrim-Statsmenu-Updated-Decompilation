@@ -1,7 +1,5 @@
-﻿class mx.utils.Delegate extends Object
+class mx.utils.Delegate extends Object
 {
-   var func;
-   
    function Delegate(f)
    {
       super();
